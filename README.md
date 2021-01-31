@@ -1,2 +1,2 @@
-# PP.Server
+# pp.server
 Server for PhiPhum
